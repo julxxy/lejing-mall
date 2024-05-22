@@ -20,7 +20,7 @@
     "element-ui": "2.8.2",
     "gulp": "3.9.1",
     "gulp-concat": "2.6.1",
-    "gulp-load-plugins": "1.6.0",
+    "gulp-load-plugins": "2.0.1",
     "gulp-replace": "0.6.1",
     "gulp-shell": "0.8.0",
     "lodash": "^4.17.20",
