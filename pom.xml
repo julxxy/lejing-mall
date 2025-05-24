@@ -87,7 +87,7 @@
         <jjwt.version>0.9.1</jjwt.version>
         <seata.starter.version>1.4.2</seata.starter.version>
         <kryo-kryo-version>2.24.0</kryo-kryo-version>
-        <kryo-version>4.0.2</kryo-version>
+        <kryo-version>4.0.3</kryo-version>
         <kryo-serializers.version>0.45</kryo-serializers.version>
         <mapstruct.version>1.5.3.Final</mapstruct.version>
         <sonar-maven-plugin.version>3.9.1.2184</sonar-maven-plugin.version>
