@@ -70,7 +70,7 @@
         <persistence-api.version>1.0.2</persistence-api.version>
         <servlet-api.version>2.5</servlet-api.version>
         <smart-doc.version>2.4.7</smart-doc.version>
-        <hutool-all.version>5.8.22</hutool-all.version>
+        <hutool-all.version>5.8.37</hutool-all.version>
         <activation.version>1.1.1</activation.version>
         <guava.version>31.1-jre</guava.version>
         <aliyun-sdk-oss.version>3.14.0</aliyun-sdk-oss.version>
