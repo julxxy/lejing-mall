@@ -45,7 +45,7 @@
         <maven-compiler-plugin.version>3.10.0</maven-compiler-plugin.version>
         <maven-source-plugin.version>3.2.1</maven-source-plugin.version>
         <lejing.latest.version>${project.version}</lejing.latest.version>
-        <spring-boot.version>2.7.1</spring-boot.version>
+        <spring-boot.version>2.7.18</spring-boot.version>
         <spring-cloud.version>2021.0.3</spring-cloud.version>
         <spring-cloud-alibaba.version>2021.0.1.0</spring-cloud-alibaba.version>
         <lombok.version>1.18.24</lombok.version>
