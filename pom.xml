@@ -82,7 +82,7 @@
         <redisson.version>3.18.0</redisson.version>
         <elasticsearch.version>7.17.0</elasticsearch.version>
         <logstash.logback.version>7.3</logstash.logback.version>
-        <easypoi.starter.version>4.4.0</easypoi.starter.version>
+        <easypoi.starter.version>4.5.0</easypoi.starter.version>
         <joda-time.version>2.10.12</joda-time.version>
         <jjwt.version>0.9.1</jjwt.version>
         <seata.starter.version>1.4.2</seata.starter.version>
