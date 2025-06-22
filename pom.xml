@@ -84,7 +84,7 @@
         <logstash.logback.version>7.3</logstash.logback.version>
         <easypoi.starter.version>4.4.0</easypoi.starter.version>
         <joda-time.version>2.10.12</joda-time.version>
-        <jjwt.version>0.9.1</jjwt.version>
+        <jjwt.version>0.12.6</jjwt.version>
         <seata.starter.version>1.4.2</seata.starter.version>
         <kryo-kryo-version>2.24.0</kryo-kryo-version>
         <kryo-version>4.0.2</kryo-version>
