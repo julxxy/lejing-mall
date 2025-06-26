@@ -1,5 +1,3 @@
-![shanghao-idea](https://alphahub-test-bucket.oss-cn-shanghai.aliyuncs.com/image/shanghao-idea.jpg)
-
 # 乐璟商城
 
 > **微服务架构图**
